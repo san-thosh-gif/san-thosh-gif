@@ -25,10 +25,13 @@
 ---
 
 ## 🔹 Featured Projects  
-📌 [IoT Smart Pill Dispenser](https://github.com/yourusername/pill-dispenser) – Automated medicine reminder & dispenser using Arduino  
-📌 [Climate Change Mitigation through Carbon Footprint Tracking](https://github.com/yourusername/carbon-tracker) – AI + Algorithms research project  
-📌 [What Can I Cook?](https://github.com/yourusername/recipe-finder) – South Indian recipe finder based on ingredients (Node.js + MongoDB)  
-📌 [Hospital Database Management System](https://github.com/yourusername/hospital-dbms) – DBMS project for hospital records  
+📌 [Know your Med](https://github.com/san-thosh-gif/KNOW_YOUR_MED) - Know about your medicine before you take it  
+📌 [Quantum-random-number-generator](https://github.com/san-thosh-gif/Quantum-random-number-generator) - Seed value Encryption
+📌 [Smart Hospital](http://github.com/san-thosh-gif/MEDAITHON-04) - when the whole hospital comes in a smartphone 
+📌 [APEX cam.apk](https://github.com/san-thosh-gif/Pragyan_Khel) - Record 240fps videos in normal mobile camera
+📌[URL Filtering](https://github.com/san-thosh-gif/REGEX_URL-Filtering) - Know about the link before opening it
+📌[Automatic pill dispenser(iot)](https://github.com/san-thosh-gif/Automatic-Pill-dispenser)-for old age peoples
+
 
 ---
 
